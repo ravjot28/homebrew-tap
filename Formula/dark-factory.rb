@@ -2,8 +2,8 @@ class DarkFactory < Formula
   desc "Interactive multi-model AI coding agent with rich TUI"
   homepage "https://github.com/ravjot28/dark-factory"
   url "https://github.com/ravjot28/dark-factory.git",
-      tag:      "v0.1.0-dirty",
-      revision: "ce7b670ba05cf5a8d978c44d674a45b5d9211f68"
+      tag:      "v0.1.0-1-gd8024c8",
+      revision: "d8024c873269e87a00597379712da5a23a3868f5"
   license "MIT"
   head "https://github.com/ravjot28/dark-factory.git", branch: "master"
 
